@@ -1,0 +1,22 @@
+# Base configs
+baseurl: "http://vishalshar.github.io/photography-website/"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: ""
+
+# UI configs
+title: "Photography by Vishal Sharma"
+subtitle: ""
+author: "Vishal Sharma"
+header:
+ title: "Photography"
+ subtitle: "by Vishal"
+footer:
+ name: "Hi there, I'm Vishal."
+ bio: "I am an amateur photographer. I study at Utah State University."
+ web: "https://vishalshar.github.io"
+web_design: "AJ"
+social_urls:
+  quora: "https://www.quora.com/profile/Vishal-Sharma-154"
+  linkedin: "https://www.linkedin.com/in/vishal-sharma-1310/"
+  github: "https://www.github.com/vishalshar"
